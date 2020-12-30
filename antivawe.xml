@@ -12,7 +12,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
 <channel>
 	<title>反波 Antiwave</title>
-	<atom:link href="https://antiwave.xyz/feed/podcast/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/3famen/pod/raw/main/antivawe.xml" rel="self" type="application/rss+xml" />
 	<link>https://antiwave.xyz</link>
 	<description>ALL RADIOS GO TO HELL !</description>
 	<lastBuildDate>Tue, 22 Dec 2020 08:48:03 +0000</lastBuildDate>
