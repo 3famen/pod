@@ -1,3 +1,9 @@
+#### archived
+
+- https://web.archive.org/web/20180924214302/http://checked.fm/feed/podcast
+
+#### custom
+
 - https://raw.githack.com/3famen/pod/main/antivawe.xml
 
 #### https://github.com/GorkyR/Custom-Podcast-Feeds
