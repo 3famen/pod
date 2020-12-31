@@ -13,5 +13,9 @@
 ### Tool
 
 pip
-- [python-feedgen](https://github.com/lkiesow/python-feedgen) - customize
+- [podgen](https://podgen.readthedocs.io/) - recommend
 - [podcats](https://github.com/jakubroztocil/podcats) - out-of-the-box
+
+Validation
+- https://www.pocketcasts.com/submit/ - recommend
+- https://podba.se/validate/ - google recommend
