@@ -6,6 +6,10 @@
 
 - https://raw.githack.com/3famen/pod/main/antivawe.xml
 
+#### converted
+
+- https://rsshub.app/youtube/playlist/PLATwx1z00HsdanKZcTMQEc-n_Bhu_aZ76
+
 #### https://github.com/GorkyR/Custom-Podcast-Feeds
 
 - http://gorkyr.github.io/Custom-Podcast-Feeds/meta-mor.rss
